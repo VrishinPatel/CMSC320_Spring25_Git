@@ -11,7 +11,7 @@ Here are some useful links that might be good to read through first
 ## Part 1: Installation
 
 Before we begin though, make sure you have Git is installed on your system. If it isn't, follow the instructions below 
-
+ 
 ### Git Installation
 
 - **Windows:** Download Git from [git-scm.com](https://git-scm.com/) and follow the installation instructions.
